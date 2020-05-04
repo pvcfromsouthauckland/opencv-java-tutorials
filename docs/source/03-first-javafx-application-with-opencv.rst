@@ -21,7 +21,7 @@ The application you will write by following this tutorial is going to capture a 
 
 Installing e(fx)clipse plugin and Scene Builder
 -----------------------------------------------
-In Eclipse, install the ``e(fx)clipse`` plugin, by following the guide at `<http://www.eclipse.org/efxclipse/install.html#fortheambitious>`_.
+In Eclipse, install the ``e(fx)clipse`` plugin, by following the guide at `<http://www.eclipse.org/efxclipse/install.html#fortheambitious>`_. Version 3.3 of teh plugin may be found in the site `<http://download.eclipse.org/releases/photon>`_.
 If you choose not to install such a plugin, you have to create a traditional **Java project**, only.
 Download and install *JavaFX Scene Builder* 2.0 from `<http://www.oracle.com/technetwork/java/javafxscenebuilder-1x-archive-2199384.html>`_.
 
